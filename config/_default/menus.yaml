@@ -1,0 +1,29 @@
+leftnav:
+- identifier: bc53fa7a-565e-4392-8fe5-a1623663ed32
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: 7ef6c214-5cb6-4c9b-96d9-575d52aeaed8
+  name: Calendar
+  pageRef: /pages/calendar
+  weight: 20
+- identifier: 268d435f-a986-4d3a-8b09-ce03ef81a8f5
+  name: Instructor Insights
+  pageRef: /pages/instructor-insights
+  weight: 30
+- identifier: 1580f14b-fa8f-4000-9223-3a5806952775
+  name: Lecture Slides
+  pageRef: /lists/lecture-notes
+  weight: 40
+- identifier: 30afd28b-02a6-49e2-aa06-b744ce282031
+  name: Lecture Videos
+  pageRef: /video_galleries/lecture-videos
+  weight: 50
+- identifier: 12500e9d-90bd-4671-9d8c-3cfc60db8a72
+  name: Homework Assignment
+  pageRef: /lists/homework-assignment
+  weight: 60
+- identifier: 66fcd941-7646-43f7-bc0b-b0e324019f1e
+  name: Exams
+  pageRef: /lists/midterm-quizzes
+  weight: 70
